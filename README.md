@@ -2,9 +2,9 @@
 Transfer learning is leveraging what one model has learned on another dataset for our own dataset.
 
 ## Worthwile to mention
-* mention how to import files of images and view random images
-* use tensorboard callback to keep track results
-* predictions in custom data with the use of two functions
+* how to import files of images and view random images
+* use of tensorboard callback to keep track results
+* predictions on custom data with the using two functions
 * use power of feature extraction for accurate predictions as our dataset is similar to **ImageNet** where our TensorflowHub models were trained (if not fine-tuning would be an option)
 
 ## Code and Resources Used
