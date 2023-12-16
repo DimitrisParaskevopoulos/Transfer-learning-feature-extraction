@@ -1,4 +1,4 @@
-# Feature extraction transfer learning for great results with small dataset
+# Feature extraction transfer learning for great results with a small dataset
 Transfer learning is leveraging what a state of the art Deep Learning model has already learned
 
 ## Key features
