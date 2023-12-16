@@ -1,11 +1,12 @@
 # Feature extraction transfer learning for great results with small dataset
-Transfer learning is leveraging what one model has learned on another dataset for our own dataset.
+Transfer learning is leveraging what a state of the art Deep Learning model has already learned
 
 ## Key features
+* Deep Learning for computer vision
+* feature extraction for accurate predictions since our dataset is similar to **ImageNet** where the TensorflowHub model was trained
 * tensorboard callback to track ML training results
-* feature extraction for accurate predictions since our dataset is similar to **ImageNet** where the TensorflowHub models were trained
 
-## Code and Resources Used
+## Code and resources
 * **Python version**: 3.9
 * **Packages**: zipfile, os, matplotlib, datetime, random, tensorflow, tensorflow_hub, pathlib
 * **Data source**: (https://github.com/DimitrisParaskevopoulos/Transfer-learning-feature-extraction/tree/main/dataset)
