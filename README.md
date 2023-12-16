@@ -1,11 +1,9 @@
 # Feature extraction transfer learning for great results with small dataset
 Transfer learning is leveraging what one model has learned on another dataset for our own dataset.
 
-## Worthwile to mention
-* how to import files of images and view random images
-* use of tensorboard callback to keep track results
-* predictions on custom data with the using two functions
-* use power of feature extraction for accurate predictions as our dataset is similar to **ImageNet** where our TensorflowHub models were trained (if not fine-tuning would be an option)
+## Key features
+* tensorboard callback to track ML training results
+* feature extraction for accurate predictions since our dataset is similar to **ImageNet** where the TensorflowHub models were trained
 
 ## Code and Resources Used
 * **Python version**: 3.9
