@@ -3,7 +3,7 @@ Transfer learning is leveraging what a state of the art Deep Learning model has 
 
 ## Key features
 * Deep Learning for computer vision
-* feature extraction for accurate predictions since our dataset is similar to **ImageNet** where the TensorflowHub model was trained
+* feature extraction for accurate predictions since our dataset is similar to **ImageNet** from which the TensorflowHub model was trained
 * tensorboard callback to track ML training results
 
 ## Code and resources
